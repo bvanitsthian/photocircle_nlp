@@ -18,3 +18,6 @@ The data questions this analysis seeks to answer include:
 1. Given the photo album titles, what distinct user segments can be identified? 
 2. How can we determine the gender distribution of the user base and the number of registered students?
 3. What type of users are most active?
+
+
+Dashboard https://nss-buamatthews.herokuapp.com
