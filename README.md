@@ -19,6 +19,6 @@ The data questions this analysis seeks to answer include:
 2. How can we determine the gender distribution of the user base and the number of registered students?
 3. What type of users are most active?
 
-Slide [Slide]([https://nss-buamatthews.herokuapp.com](https://www.canva.com/design/DAFlSBURezE/euUWF4lZJCUirxNieMSLZg/view?utm_content=DAFlSBURezE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+[Slide]([https://nss-buamatthews.herokuapp.com](https://www.canva.com/design/DAFlSBURezE/euUWF4lZJCUirxNieMSLZg/view?utm_content=DAFlSBURezE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
 
 Dashboard https://nss-buamatthews.herokuapp.com
